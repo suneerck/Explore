@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Explore</string>
+    <string name="signup"><b>SignUp</b></string>
+    <string name="don_t_have_an_account">Don\'t have an account..!?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dummyPara">The Amalfi Coast is a 50-kilometer stretch of coastline along the southern edge of Italy’s Sorrentine Peninsula, in the Campania region. It’s a popular holiday destination, with sheer cliffs and a rugged shoreline dotted with small beaches and pastel-colored fishing villages. The coastal road between the port city of Salerno and clifftop Sorrento winds past grand villas, terraced vineyards and cliffside lemon groves.</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
